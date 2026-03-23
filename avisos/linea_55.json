@@ -5,5 +5,12 @@
     "lng": -3.702409,
     "radio_metros": 70,
     "mensaje": "Continua por el carril izquierdo sentido plaza elíptica"
+  },
+  {
+    "tipo": "otro",
+    "lat": 40.393496,
+    "lng": -3.706212,
+    "radio_metros": 70,
+    "mensaje": "Sal por la primera salida a la parada Parque Bomberos"
   }
 ]
