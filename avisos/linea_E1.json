@@ -1,0 +1,9 @@
+[
+  {
+    "tipo": "tunel",
+    "lat": 40.407945,
+    "lng": -3.693042,
+    "radio_metros": 60,
+    "mensaje": "Entrada a tunel"
+  }
+]
