@@ -7,10 +7,10 @@
     "mensaje": "Dirección Marques de vadillo"
   },
   {
-    "tipo": "tunel",
-    "lat": 40.39771,
-    "lng": -3.715455,
+    "tipo": "giro",
+    "lat": 40.400878,
+    "lng": -3.715128,
     "radio_metros": 40,
-    "mensaje": "Entrada a túnel, seguir las indicaciones para salir en dirección:\nGlorieta Pirámides - Puerta Toledo"
+    "mensaje": "En direccion Marques de vadillo"
   }
 ]
