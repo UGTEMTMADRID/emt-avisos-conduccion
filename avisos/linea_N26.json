@@ -5,5 +5,12 @@
     "lng": -3.713811,
     "radio_metros": 40,
     "mensaje": "Dirección Marques de vadillo"
+  },
+  {
+    "tipo": "giro",
+    "lat": 40.400878,
+    "lng": -3.715128,
+    "radio_metros": 40,
+    "mensaje": "En direccion Marques de vadillo"
   }
 ]
