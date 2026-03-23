@@ -12,5 +12,12 @@
     "lng": -3.715128,
     "radio_metros": 40,
     "mensaje": "En direccion Marques de vadillo"
+  },
+  {
+    "tipo": "giro_cerrado",
+    "lat": 40.361437,
+    "lng": -3.697774,
+    "radio_metros": 40,
+    "mensaje": "Giro cerrado a Izquierda"
   }
 ]
