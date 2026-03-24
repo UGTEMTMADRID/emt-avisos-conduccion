@@ -12,5 +12,12 @@
     "lng": -3.696478,
     "radio_metros": 40,
     "mensaje": "Cogemos parte del otro carril y giramos despacio"
+  },
+  {
+    "tipo": "giro",
+    "lat": 40.452366,
+    "lng": -3.695631,
+    "radio_metros": 40,
+    "mensaje": "Giramos despacio"
   }
 ]
