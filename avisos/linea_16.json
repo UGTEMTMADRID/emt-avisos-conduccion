@@ -12,5 +12,12 @@
     "lng": -3.703004,
     "radio_metros": 40,
     "mensaje": "Giro y cogemos carril bus"
+  },
+  {
+    "tipo": "giro",
+    "lat": 40.437777,
+    "lng": -3.690451,
+    "radio_metros": 40,
+    "mensaje": "Subimos siempre por Maria de Molina"
   }
 ]
