@@ -19,5 +19,12 @@
     "lng": -3.690859,
     "radio_metros": 40,
     "mensaje": "Coge lateral derecho fuera de carril bus, parada y giras por Paseo de la Habana"
+  },
+  {
+    "tipo": "giro",
+    "lat": 40.467462,
+    "lng": -3.678982,
+    "radio_metros": 40,
+    "mensaje": "Giro derecha y vete colocando para proximo giro a la izquierda"
   }
 ]
