@@ -1,0 +1,9 @@
+[
+  {
+    "tipo": "giro",
+    "lat": 40.435279,
+    "lng": -3.686482,
+    "radio_metros": 40,
+    "mensaje": "Giramos a la derecho ojo peatones en el giro y semaforo"
+  }
+]
