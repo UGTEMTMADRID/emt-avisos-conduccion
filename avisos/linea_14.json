@@ -26,5 +26,12 @@
     "lng": -3.678982,
     "radio_metros": 40,
     "mensaje": "Giro derecha y vete colocando para proximo giro a la izquierda"
+  },
+  {
+    "tipo": "otro",
+    "lat": 40.472457,
+    "lng": -3.675871,
+    "radio_metros": 40,
+    "mensaje": "Siempre por fuera del tunel"
   }
 ]
