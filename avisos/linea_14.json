@@ -12,5 +12,12 @@
     "lng": -3.686785,
     "radio_metros": 40,
     "mensaje": "Atencion desvio por obras"
+  },
+  {
+    "tipo": "giro",
+    "lat": 40.445592,
+    "lng": -3.690859,
+    "radio_metros": 40,
+    "mensaje": "Coge lateral derecho fuera de carril bus, parada y giras por Paseo de la Habana"
   }
 ]
