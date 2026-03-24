@@ -5,5 +5,12 @@
     "lng": -3.676434,
     "radio_metros": 40,
     "mensaje": "Cuidado con los bolardos gira despacio"
+  },
+  {
+    "tipo": "giro_cerrado",
+    "lat": 40.444085,
+    "lng": -3.677625,
+    "radio_metros": 40,
+    "mensaje": "Invade el sentido contrario y cuidado con los bolardos de la izquierda"
   }
 ]
