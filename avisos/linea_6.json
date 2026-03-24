@@ -5,5 +5,12 @@
     "lng": -3.693504,
     "radio_metros": 60,
     "mensaje": "Mantente a la derecha para continuar por Santa Maria de la cabeza, pegado a la gasolinera"
+  },
+  {
+    "tipo": "giro",
+    "lat": 40.412263,
+    "lng": -3.699131,
+    "radio_metros": 40,
+    "mensaje": "Volamos pegados lado izquierdo cuidado con estacion de Bicimad"
   }
 ]
