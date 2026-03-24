@@ -19,5 +19,12 @@
     "lng": -3.690451,
     "radio_metros": 40,
     "mensaje": "Subimos siempre por Maria de Molina"
+  },
+  {
+    "tipo": "reducir",
+    "lat": 40.437737,
+    "lng": -3.687823,
+    "radio_metros": 40,
+    "mensaje": "Ojo arboles en la parada"
   }
 ]
