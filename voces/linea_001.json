@@ -9,5 +9,192 @@
     "mensaje": "inicio y salimos del intercambiador y luego hacemos un cambio de sentido",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.406658,
+    "lng": -3.68879,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "hacemos un cambio de sentido",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.407051,
+    "lng": -3.688597,
+    "radio_metros": 20,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "hacemos un cambio de sentido",
+    "distancia_previa_metros": 70,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.407631,
+    "lng": -3.689531,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada junto al semáforo y luego giramos a la derecha para seguir por paseo del prado",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.408795,
+    "lng": -3.691383,
+    "radio_metros": 60,
+    "icono_sf": "arrow.right",
+    "mensaje": "Giramos a la derecha",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.409297,
+    "lng": -3.691958,
+    "radio_metros": 25,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y seguimos por el paseo del prado",
+    "distancia_previa_metros": 75,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.412156,
+    "lng": -3.692806,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y seguimos recto hasta Cibeles",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.414893,
+    "lng": -3.693393,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Seguimos por carríl bus y luego parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.418871,
+    "lng": -3.693017,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "En la glorierta giramos a la izquierda",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.418928,
+    "lng": -3.695793,
+    "radio_metros": 160,
+    "icono_sf": "arrow.right",
+    "mensaje": "Giramos a la derecha para seguir por gran vía",
+    "distancia_previa_metros": 210,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.419647,
+    "lng": -3.699331,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Continua recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.420276,
+    "lng": -3.705341,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Continua recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.422881,
+    "lng": -3.710012,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Seguimos recto por Gran Vía",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.424482,
+    "lng": -3.711805,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Seguimos todo recto por calle Princesa",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.433057,
+    "lng": -3.718031,
+    "radio_metros": 270,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Giramos dos veces a derecha",
+    "distancia_previa_metros": 320,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.434046,
+    "lng": -3.71859,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Gira a la derecha",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.434282,
+    "lng": -3.718074,
+    "radio_metros": 69,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Gira a la derecha",
+    "distancia_previa_metros": 119,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.433858,
+    "lng": -3.717699,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Cabecera",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
