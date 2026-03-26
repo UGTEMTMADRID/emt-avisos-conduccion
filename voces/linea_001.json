@@ -1,0 +1,13 @@
+[
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.40692,
+    "lng": -3.689542,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "inicio y salimos del intercambiador y luego hacemos un cambio de sentido",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  }
+]
