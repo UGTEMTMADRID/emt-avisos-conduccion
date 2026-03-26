@@ -177,13 +177,13 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
-    "lat": 40.434282,
-    "lng": -3.718074,
-    "radio_metros": 69,
-    "icono_sf": "arrow.turn.up.right",
-    "mensaje": "Gira a la derecha",
-    "distancia_previa_metros": 119,
+    "direccion": "toA",
+    "lat": 40.433282,
+    "lng": -3.717344,
+    "radio_metros": 100,
+    "icono_sf": "arrow.right",
+    "mensaje": "Gira a la derecha y en la intersección a la izquierda",
+    "distancia_previa_metros": 150,
     "mensaje_previo": ""
   },
   {
@@ -195,6 +195,138 @@
     "icono_sf": "arrow.up",
     "mensaje": "Cabecera",
     "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.433053,
+    "lng": -3.717897,
+    "radio_metros": 60,
+    "icono_sf": "arrow.left",
+    "mensaje": "Ahora gira a la izquierda dirección Calle Princesa",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.430109,
+    "lng": -3.715891,
+    "radio_metros": 150,
+    "icono_sf": "arrow.up",
+    "mensaje": "Continua Recto pero por el exterior del tunel y por el carril Bus",
+    "distancia_previa_metros": 200,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.423837,
+    "lng": -3.711296,
+    "radio_metros": 250,
+    "icono_sf": "arrow.up",
+    "mensaje": "Seguimos rectos en dirección Gran Via",
+    "distancia_previa_metros": 300,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.420047,
+    "lng": -3.702201,
+    "radio_metros": 170,
+    "icono_sf": "arrow.up",
+    "mensaje": "Continua Recto",
+    "distancia_previa_metros": 220,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.418985,
+    "lng": -3.697064,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "En la intersección gira a la izquierda para tomar la Calle Alcalá",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.41914,
+    "lng": -3.693929,
+    "radio_metros": 111,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Gira a la derecha para tomar el Paseo del Prado",
+    "distancia_previa_metros": 161,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.41584,
+    "lng": -3.694638,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Continua recto por el Paseo del Prado",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.409648,
+    "lng": -3.692396,
+    "radio_metros": 300,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "En la Rotonda de Carlos Quinto, toma la segunda salida en direccion Atocha",
+    "distancia_previa_metros": 350,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.406797,
+    "lng": -3.689168,
+    "radio_metros": 100,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Entra al intercambiador a la derecha despues de la parada",
+    "distancia_previa_metros": 150,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.406438,
+    "lng": -3.688954,
+    "radio_metros": 48,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Nos guiamos visualmente de la trazada",
+    "distancia_previa_metros": 98,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.40616,
+    "lng": -3.689662,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Cabecera la ultima darsena",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.406814,
+    "lng": -3.68977,
+    "radio_metros": 29,
+    "icono_sf": "arrow.up",
+    "mensaje": "Cabecera",
+    "distancia_previa_metros": 79,
     "mensaje_previo": ""
   }
 ]
