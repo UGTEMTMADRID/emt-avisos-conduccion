@@ -1,0 +1,13 @@
+[
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.363852,
+    "lng": -3.699331,
+    "radio_metros": 300,
+    "icono_sf": "exclamationmark.triangle.fill",
+    "mensaje": "Atencion",
+    "distancia_previa_metros": 350,
+    "mensaje_previo": "Atencion"
+  }
+]
