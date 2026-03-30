@@ -108,5 +108,170 @@
     "mensaje": "cabecera de lucero y seguimos recto",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.398404,
+    "lng": -3.755898,
+    "radio_metros": 60,
+    "icono_sf": "mappin.circle.fill",
+    "mensaje": "cabecera de lucero y seguimos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.399723,
+    "lng": -3.755085,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "en glorieta seguimos recto y luego",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.400596,
+    "lng": -3.754539,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "seguimos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.40199,
+    "lng": -3.753099,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "después del semáforo",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.402728,
+    "lng": -3.751647,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "seguimos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.403379,
+    "lng": -3.749374,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "luego giramos a izquierda siempre dirección m 30",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.404004,
+    "lng": -3.74777,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "en dirección m 30 giramos a izquierda nos guiamos visualmente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.404335,
+    "lng": -3.749728,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "en semáforo giramos a la derecha siempre en dirección calle villamanín",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.404494,
+    "lng": -3.751431,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "giramos a izquierda nos guiamos visualmente desvío",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.405967,
+    "lng": -3.753373,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "nos guiamos visualmente en ambos sentidos",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.407833,
+    "lng": -3.750366,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "luego giramos a la derecha",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.407001,
+    "lng": -3.749518,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "giramos a derecha por villasandino",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.406115,
+    "lng": -3.751872,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "luego en semáforo giramos a derecha y otra vez atención nos guiamos visualmente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.404221,
+    "lng": -3.753647,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "por la derecha nos guiamos visualmente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.405081,
+    "lng": -3.754152,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "nos guiamos visualmente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
