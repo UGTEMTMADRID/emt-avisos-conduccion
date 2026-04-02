@@ -59,10 +59,10 @@
     "direccion": "toB",
     "lat": 40.402265,
     "lng": -3.760467,
-    "radio_metros": 60,
+    "radio_metros": 61,
     "icono_sf": "arrow.up",
-    "mensaje": "por debajo del puente y luego",
-    "distancia_previa_metros": 110,
+    "mensaje": "Continuamos hacia la izquierda y a continuación gira a la derecha para ir hacia Calle de los Yebenes",
+    "distancia_previa_metros": 111,
     "mensaje_previo": ""
   },
   {
@@ -271,6 +271,39 @@
     "radio_metros": 60,
     "icono_sf": "arrow.up",
     "mensaje": "nos guiamos visualmente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.401707,
+    "lng": -3.760978,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Gira a la Izquierda",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.401491,
+    "lng": -3.761157,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Gira a la derecha en dirección Calle de los Yébenes",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.40154,
+    "lng": -3.760303,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Continua en direccion Los Yebenes",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   }
