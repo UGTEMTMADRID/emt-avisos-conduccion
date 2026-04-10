@@ -19,5 +19,12 @@
     "lng": -3.678639,
     "radio_metros": 40,
     "mensaje": "Comienza desvio por obras"
+  },
+  {
+    "tipo": "otro",
+    "lat": 40.434301,
+    "lng": -3.674932,
+    "radio_metros": 40,
+    "mensaje": "Cuidado al llegar a cabecera con los arboles"
   }
 ]
