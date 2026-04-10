@@ -12,5 +12,12 @@
     "lng": -3.682893,
     "radio_metros": 40,
     "mensaje": "Comienza desvio por obras"
+  },
+  {
+    "tipo": "otro",
+    "lat": 40.407831,
+    "lng": -3.678639,
+    "radio_metros": 40,
+    "mensaje": "Comienza desvio por obras"
   }
 ]
