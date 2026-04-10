@@ -1,0 +1,9 @@
+[
+  {
+    "tipo": "giro",
+    "lat": 40.466801,
+    "lng": -3.714951,
+    "radio_metros": 40,
+    "mensaje": "Giramos derecha y parada"
+  }
+]
