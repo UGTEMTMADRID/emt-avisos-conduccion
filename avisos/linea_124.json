@@ -1,0 +1,9 @@
+[
+  {
+    "tipo": "giro",
+    "lat": 40.475099,
+    "lng": -3.687262,
+    "radio_metros": 40,
+    "mensaje": "Nos vamos al carril de la derecha"
+  }
+]
