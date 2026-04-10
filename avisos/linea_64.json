@@ -5,5 +5,12 @@
     "lng": -3.722603,
     "radio_metros": 40,
     "mensaje": "Ir despacio zona estrecha"
+  },
+  {
+    "tipo": "giro_cerrado",
+    "lat": 40.467042,
+    "lng": -3.724196,
+    "radio_metros": 40,
+    "mensaje": "Cuidado giro cerrado"
   }
 ]
