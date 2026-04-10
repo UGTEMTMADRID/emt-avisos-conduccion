@@ -5,5 +5,12 @@
     "lng": -3.670638,
     "radio_metros": 40,
     "mensaje": "Cuidado zona estrecha"
+  },
+  {
+    "tipo": "giro_cerrado",
+    "lat": 40.38144,
+    "lng": -3.672564,
+    "radio_metros": 40,
+    "mensaje": "Cuidado giro cerrado"
   }
 ]
