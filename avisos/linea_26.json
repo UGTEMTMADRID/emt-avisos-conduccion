@@ -5,5 +5,12 @@
     "lng": -3.703583,
     "radio_metros": 40,
     "mensaje": "Comienzo circuito neutralizado"
+  },
+  {
+    "tipo": "otro",
+    "lat": 40.405029,
+    "lng": -3.682893,
+    "radio_metros": 40,
+    "mensaje": "Comienza desvio por obras"
   }
 ]
