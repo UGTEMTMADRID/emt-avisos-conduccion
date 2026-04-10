@@ -12,5 +12,12 @@
     "lng": -3.688904,
     "radio_metros": 40,
     "mensaje": "Nos abrimos y cuidado con los coches estacionados al lado del semaforo"
+  },
+  {
+    "tipo": "giro",
+    "lat": 40.48803,
+    "lng": -3.703128,
+    "radio_metros": 40,
+    "mensaje": "Giramos derecha, cuidado en el cruce y cuidado con los otros coches al entrar al tunel"
   }
 ]
