@@ -5,5 +5,12 @@
     "lng": -3.655282,
     "radio_metros": 40,
     "mensaje": "Por via de servicio el Bosco"
+  },
+  {
+    "tipo": "otro",
+    "lat": 40.392728,
+    "lng": -3.632709,
+    "radio_metros": 40,
+    "mensaje": "Siempre direccion Vallecas"
   }
 ]
