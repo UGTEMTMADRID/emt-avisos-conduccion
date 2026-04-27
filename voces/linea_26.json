@@ -1,7 +1,7 @@
 [
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.434391,
     "lng": -3.674856,
     "radio_metros": 60,
@@ -12,7 +12,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.432669,
     "lng": -3.672719,
     "radio_metros": 60,
@@ -23,7 +23,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.432451,
     "lng": -3.674198,
     "radio_metros": 60,
@@ -34,7 +34,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.4305,
     "lng": -3.675254,
     "radio_metros": 60,
@@ -45,7 +45,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.427937,
     "lng": -3.675493,
     "radio_metros": 60,
@@ -56,7 +56,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.423559,
     "lng": -3.675825,
     "radio_metros": 60,
@@ -67,7 +67,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.418734,
     "lng": -3.676194,
     "radio_metros": 60,
@@ -78,7 +78,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.418463,
     "lng": -3.677974,
     "radio_metros": 60,
@@ -89,7 +89,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.41709,
     "lng": -3.678399,
     "radio_metros": 60,
@@ -100,7 +100,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.414742,
     "lng": -3.677529,
     "radio_metros": 60,
@@ -111,7 +111,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.412729,
     "lng": -3.676811,
     "radio_metros": 60,
@@ -122,7 +122,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.411173,
     "lng": -3.676408,
     "radio_metros": 60,
@@ -133,7 +133,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.408594,
     "lng": -3.678108,
     "radio_metros": 60,
@@ -144,7 +144,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.407516,
     "lng": -3.679226,
     "radio_metros": 60,
@@ -155,7 +155,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.406706,
     "lng": -3.687623,
     "radio_metros": 60,
@@ -166,7 +166,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.407522,
     "lng": -3.689286,
     "radio_metros": 60,
@@ -177,7 +177,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.408527,
     "lng": -3.690913,
     "radio_metros": 60,
@@ -188,7 +188,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.409342,
     "lng": -3.692305,
     "radio_metros": 60,
@@ -199,7 +199,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.410344,
     "lng": -3.694812,
     "radio_metros": 60,
@@ -210,7 +210,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.41294,
     "lng": -3.700249,
     "radio_metros": 60,
@@ -221,7 +221,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.414211,
     "lng": -3.703162,
     "radio_metros": 60,
@@ -232,7 +232,7 @@
   },
   {
     "tipo": "voz_personalizada",
-    "direccion": "toB",
+    "direccion": "toA",
     "lat": 40.413797,
     "lng": -3.704745,
     "radio_metros": 60,
