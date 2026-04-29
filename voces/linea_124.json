@@ -479,7 +479,7 @@
     "lng": -3.689002,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "En dirección a las cuatro torres y hospital la paz.",
+    "mensaje": "En dirección a  hospital la paz.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -490,7 +490,7 @@
     "lng": -3.688674,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "En dirección a las cuatro torres y hospital la paz a continuación, parada.",
+    "mensaje": "En dirección a hospital la paz a continuación, parada.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -743,7 +743,7 @@
     "lng": -3.70161,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
-    "mensaje": "No corras tomar la segunda calle a la derecha en dirección alfredo marquerie.",
+    "mensaje": "Reduce la velocidad, toma la segunda calle a la derecha en dirección alfredo marquerie.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
