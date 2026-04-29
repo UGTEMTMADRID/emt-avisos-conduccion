@@ -578,7 +578,7 @@
     "lng": -3.690806,
     "radio_metros": 60,
     "icono_sf": "road.lanes",
-    "mensaje": "Girar a la derecha y continuar por el carril exterior al túnel en dirección hospital la paz.",
+    "mensaje": "Girar a la derecha y continuar por fuera del túnel, carril izquierdo, dirección hospital la paz.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
