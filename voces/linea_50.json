@@ -1,0 +1,200 @@
+[
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.414759,
+    "lng": -3.705439,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Línea 50 en setido avenida del manzanares.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.414971,
+    "lng": -3.706845,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "· Continuar de frente hasta el semáforo y nos mantenemos a derecha.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.413813,
+    "lng": -3.707318,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "· Girar a la derecha Al llegar al semáforo,",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.413678,
+    "lng": -3.708728,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Parada. continuar recto.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.413642,
+    "lng": -3.710803,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Parada. continuar de frente.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.413928,
+    "lng": -3.713309,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Continuar recto por debajo del puente.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.413913,
+    "lng": -3.71551,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "· Parada. continuar recto y nos mantenemos a la izquierda.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.413955,
+    "lng": -3.718295,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "· Girar a la izquierda por la calle juan duque.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.411483,
+    "lng": -3.7195,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Parada. continuar todo recto.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.408448,
+    "lng": -3.719588,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Continuar de frente y parada.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.406921,
+    "lng": -3.720173,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Continuar todo recto.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.405519,
+    "lng": -3.720594,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "· Parada. luego giramos la segunda a la derecha en dirección a paseo ermita del santo.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.404124,
+    "lng": -3.720449,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· En dirección a paseo ermita del santo.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.403904,
+    "lng": -3.722066,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "· Nos mantenemos a la izquierda.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.40372,
+    "lng": -3.723799,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "· Girar a la izquierda y luego nos mantenemos en el carríl izquierdo.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.402506,
+    "lng": -3.724745,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "· Girar a la izquierda y parada.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.401802,
+    "lng": -3.723095,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "· Parada. luego al final de la calle girar a la derecha.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.399377,
+    "lng": -3.719056,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Después de la curva fín de línea.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  }
+]
