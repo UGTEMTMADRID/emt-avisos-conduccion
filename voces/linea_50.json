@@ -196,5 +196,203 @@
     "mensaje": "· Después de la curva fín de línea.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.399134,
+    "lng": -3.71919,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Línea 50 en sentido plaza mayor.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.399485,
+    "lng": -3.721756,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Parada. continuar recto.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.400707,
+    "lng": -3.723715,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Parada. continuar de frente.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.401743,
+    "lng": -3.724313,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "· Continuar recto y nos mantenemos a la derecha en dirección a glorieta puerta de toledo.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.403053,
+    "lng": -3.724571,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "· Parada. luego girar a la derecha en dirección a glorieta puerta de toledo.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.403585,
+    "lng": -3.722454,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "· Giramos primera a la izquierda y parada.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.40396,
+    "lng": -3.720469,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "· Girar a la izquierda y parada.. volvemos a girar a izquierda.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.412607,
+    "lng": -3.721129,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "· Parada. luego girar a la derecha.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.413942,
+    "lng": -3.720959,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "· Girar a la derecha y parada.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.413873,
+    "lng": -3.717377,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Continuar recto En el cruce, y parada.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.413885,
+    "lng": -3.714785,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Continuar todo recto por debajo del puente.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.413869,
+    "lng": -3.712178,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Continuar recto y parada.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.413461,
+    "lng": -3.710223,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Continuar recto continuar recto.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.413684,
+    "lng": -3.708179,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Parada. continuar recto por la calle colegiata.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.412939,
+    "lng": -3.706302,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Continuar todo recto y parada en plaza tirso de molina.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.412369,
+    "lng": -3.704455,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "· Parada. luego giramos primera a la izquierda por la calle doctor cortezo.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.413604,
+    "lng": -3.703561,
+    "radio_metros": 60,
+    "icono_sf": "road.lanes",
+    "mensaje": "· Por fuera del tunel y Al llegar al semáforo, girar a la izquierda.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.414539,
+    "lng": -3.704789,
+    "radio_metros": 60,
+    "icono_sf": "mappin.circle.fill",
+    "mensaje": "· Por fuera del tunel y luego cabecera de línea nos guiamos visualmente.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
