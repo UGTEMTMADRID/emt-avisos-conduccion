@@ -1,0 +1,233 @@
+[
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.429659,
+    "lng": -3.669936,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Línea 48 en sentido barrio de canillejas.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.43175,
+    "lng": -3.671712,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "· Parada. luego girar a la derecha en dirección a martínez izquierdo.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.432928,
+    "lng": -3.670637,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Continuar todo recto por martínez izquierdo.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.433593,
+    "lng": -3.669338,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Parada. continuar de frente.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.435041,
+    "lng": -3.666239,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Parada. continuar recto.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.435185,
+    "lng": -3.662762,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Parada. continuar recto en dirección a avenida donostierra.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.435142,
+    "lng": -3.660897,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Continuar recto por el puente.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.434642,
+    "lng": -3.656848,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Parada. En la glorieta, continuar recto en dirección a arturo soria.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.434607,
+    "lng": -3.653815,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Continuar por la izquierda y parada.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.437714,
+    "lng": -3.647182,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "· Parada. luego giramos ligeramente a la izquierda.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.438977,
+    "lng": -3.646161,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· En la bifurcación continuar por la derecha por la calle jose del hierro.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.440954,
+    "lng": -3.642134,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "· Parada. al final de la calle girar a la derecha.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.424015,
+    "lng": -3.628082,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "· Parada. luego nos mantenemos a la izquierda.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.422664,
+    "lng": -3.627061,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "· Girar a la izquierda.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.424546,
+    "lng": -3.620783,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "· Girar a la izquierda y hacemos la Parada. luego girar a la derecha.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.427944,
+    "lng": -3.613391,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "· Parada. luego En la glorieta, segunda salida.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.426776,
+    "lng": -3.611541,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "· Girar a la izquierda y parada.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.436103,
+    "lng": -3.612637,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "· Parada. luego girar a la derecha.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.43783,
+    "lng": -3.610448,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "· Girar a la izquierda por la calle lucano y parada.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.439906,
+    "lng": -3.611751,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "· Parada. girar a la derecha y luego a la izquierda.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.44076,
+    "lng": -3.607993,
+    "radio_metros": 60,
+    "icono_sf": "mappin.circle.fill",
+    "mensaje": "· Fín de línea 48 tenemos aseos de tarjeta en cabecera.",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  }
+]
