@@ -420,8 +420,8 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toB",
-    "lat": 40.475605,
-    "lng": -3.664999,
+    "lat": 40.474681,
+    "lng": -3.665085,
     "radio_metros": 60,
     "icono_sf": "light.beacon.max.fill",
     "mensaje": "Parada junto al semáforo y también Inicio de recorrido de Tramo de circuito neutralizado y Continuar recto",
