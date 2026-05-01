@@ -50,7 +50,7 @@
     "lng": -3.711271,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "y en la glorieta cuarta salida en dirección m 30 y en glorieta cuarta salida dirección m 30",
+    "mensaje": "y en la glorieta cuarta salida en dirección m 30.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -61,7 +61,7 @@
     "lng": -3.711917,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "en dirección m 30 y luego dirección m 30 y luego",
+    "mensaje": "en dirección m 30.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -127,7 +127,7 @@
     "lng": -3.716217,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "en la glorieta cuarta salida en dirección antonio lópez en glorieta cuarta salida dirección antonio lópez",
+    "mensaje": "en la glorieta cuarta salida en dirección antonio lópez.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -138,7 +138,7 @@
     "lng": -3.715631,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "en dirección antonio lópez y hospital 12 de octubre y luego dirección antonio lópez y hospital 12 de octubre y luego",
+    "mensaje": "en dirección antonio lópez y hospital 12 de octubre.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -281,7 +281,7 @@
     "lng": -3.691230780457154,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "y en la glorieta primera salida y en glorieta primera salida",
+    "mensaje": "y en la glorieta primera salida.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -413,7 +413,7 @@
     "lng": -3.683189,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "en la glorieta primera salida a derecha y luego en glorieta primera salida a derecha y luego",
+    "mensaje": "en la glorieta primera salida a derecha.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -424,7 +424,7 @@
     "lng": -3.684255,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
-    "mensaje": "y luego giramos primera a la derecha y después giramos primera a derecha",
+    "mensaje": "y luego giramos primera a la derecha.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -435,7 +435,7 @@
     "lng": -3.685831,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
-    "mensaje": "y luego giramos a la derecha y giramos a derecha",
+    "mensaje": "y luego giramos a la derecha.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -501,7 +501,7 @@
     "lng": -3.690352833338849,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.left",
-    "mensaje": "en la glorieta seguimos de frente ligeramente a la izquierda y luego",
+    "mensaje": "en la glorieta seguimos de frente ligeramente a la izquierda.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -710,7 +710,7 @@
     "lng": -3.689764775776045,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "y seguimos recto hasta glorieta y seguimos recto hasta la glorieta",
+    "mensaje": "y seguimos recto hasta glorieta.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -798,7 +798,7 @@
     "lng": -3.691213124650118,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.left",
-    "mensaje": "en la glorieta giramos a la izquierda segunda salida y luego",
+    "mensaje": "en la glorieta giramos a la izquierda segunda salida.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -853,7 +853,7 @@
     "lng": -3.695537,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
-    "mensaje": "giramos a la derecha y luego",
+    "mensaje": "giramos a la derecha.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -919,7 +919,7 @@
     "lng": -3.699544759482056,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "en dirección glorieta marqués de vadillo y luego",
+    "mensaje": "en dirección glorieta marqués de vadillo.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -1058,8 +1058,8 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toA",
-    "lat": 40.40559601163977,
-    "lng": -3.711985855505602,
+    "lat": 40.405627,
+    "lng": -3.712024,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
     "mensaje": "y en la glorieta tercera salida en dirección plaza de la cebada",
@@ -1073,7 +1073,7 @@
     "lng": -3.711246374660994,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "en dirección plaza de la cebada y luego",
+    "mensaje": "en dirección plaza de la cebada.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -1091,8 +1091,8 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toA",
-    "lat": 40.41265721131474,
-    "lng": -3.707566358512933,
+    "lat": 40.412708,
+    "lng": -3.707573,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "giramos primera a la derecha y Final de línea",
@@ -1102,8 +1102,8 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toA",
-    "lat": 40.40927067222788,
-    "lng": -3.709979944908497,
+    "lat": 40.409308,
+    "lng": -3.709992,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
     "mensaje": "y seguimos recto",
@@ -1117,15 +1117,15 @@
     "lng": -3.708732515999349,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "en glorieta seguimos recto segunda salida y luego en la glorieta seguimos recto segunda salida y luego",
+    "mensaje": "en glorieta seguimos recto segunda salida.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
   {
     "tipo": "voz_personalizada",
     "direccion": "toA",
-    "lat": 40.41307249979113,
-    "lng": -3.706409498167833,
+    "lat": 40.413122,
+    "lng": -3.706721,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.left",
     "mensaje": "giramos a la izquierda y Final de línea",
