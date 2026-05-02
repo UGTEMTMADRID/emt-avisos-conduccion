@@ -178,11 +178,11 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toA",
-    "lat": 40.433282,
-    "lng": -3.717344,
+    "lat": 40.433278,
+    "lng": -3.717352,
     "radio_metros": 100,
     "icono_sf": "arrow.right",
-    "mensaje": "Gira a la derecha y en la intersección a la izquierda",
+    "mensaje": "Gira a la derecha, en la intersección a la izquierda",
     "distancia_previa_metros": 150,
     "mensaje_previo": ""
   },
@@ -211,11 +211,11 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toA",
-    "lat": 40.430109,
-    "lng": -3.715891,
+    "lat": 40.430117,
+    "lng": -3.715879,
     "radio_metros": 150,
     "icono_sf": "arrow.up",
-    "mensaje": "Continua Recto pero por el exterior del tunel y por el carril Bus",
+    "mensaje": "Continua Recto, por el exterior del tunel y por el carril Bus",
     "distancia_previa_metros": 200,
     "mensaje_previo": ""
   },
@@ -303,7 +303,7 @@
     "lng": -3.688954,
     "radio_metros": 48,
     "icono_sf": "arrow.turn.up.right",
-    "mensaje": "Nos guiamos visualmente de la trazada",
+    "mensaje": "Sige la línea de la ruta",
     "distancia_previa_metros": 98,
     "mensaje_previo": ""
   },
