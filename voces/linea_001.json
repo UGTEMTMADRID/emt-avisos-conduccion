@@ -13,22 +13,22 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toB",
-    "lat": 40.406658,
-    "lng": -3.68879,
+    "lat": 40.406638,
+    "lng": -3.688798,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.left",
-    "mensaje": "hacemos un cambio de sentido",
+    "mensaje": "seguimos haciendo el  cambio de sentido",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
   {
     "tipo": "voz_personalizada",
     "direccion": "toB",
-    "lat": 40.407051,
-    "lng": -3.688597,
+    "lat": 40.407052,
+    "lng": -3.688604,
     "radio_metros": 20,
     "icono_sf": "arrow.turn.up.left",
-    "mensaje": "hacemos un cambio de sentido",
+    "mensaje": "terminamos el cambio de sentido",
     "distancia_previa_metros": 70,
     "mensaje_previo": ""
   },
@@ -61,7 +61,7 @@
     "lng": -3.691962,
     "radio_metros": 25,
     "icono_sf": "arrow.up",
-    "mensaje": "Parada  seguimos por el paseo del prado",
+    "mensaje": "Parada, seguimos por el paseo del prado",
     "distancia_previa_metros": 75,
     "mensaje_previo": ""
   },
