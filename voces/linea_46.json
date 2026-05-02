@@ -35,11 +35,11 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toA",
-    "lat": 40.4397550316799,
-    "lng": -3.727167997634929,
+    "lat": 40.439657,
+    "lng": -3.727144,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "En dirección museo del traje y luego",
+    "mensaje": "En dirección museo del traje.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
