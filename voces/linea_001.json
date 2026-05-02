@@ -6,7 +6,7 @@
     "lng": -3.689544,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
-    "mensaje": "inicio y salimos del intercambiador y hacemos un cambio de sentido",
+    "mensaje": "inicio, salimos del intercambiador, hacemos un cambio de sentido",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -35,11 +35,11 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toB",
-    "lat": 40.407625,
+    "lat": 40.407626,
     "lng": -3.689535,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "Parada junto al semáforo y giramos a la derecha para seguir por paseo del prado",
+    "mensaje": "Parada junto al semáforo, giramos a la derecha para seguir por paseo del prado",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
