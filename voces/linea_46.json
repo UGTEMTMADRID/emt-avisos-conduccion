@@ -446,7 +446,7 @@
     "lng": -3.711799,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "seguimos recto en dirección estacion príncipe pío",
+    "mensaje": "continuamos recto en dirección estacion príncipe pío",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -479,7 +479,7 @@
     "lng": -3.718571,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "luego en la glorieta primera salida a derecha en dirección principe pío",
+    "mensaje": "en la glorieta primera salida a derecha en dirección principe pío",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -501,7 +501,7 @@
     "lng": -3.722941,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "seguimos recto toda la calle",
+    "mensaje": "continuamos recto toda la calle",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -523,7 +523,7 @@
     "lng": -3.726952,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "seguimos recto",
+    "mensaje": "continuamos recto",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -545,7 +545,7 @@
     "lng": -3.731853,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "seguimos recto en dirección ciudad universitaria",
+    "mensaje": "continuamos recto en dirección ciudad universitaria",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -556,7 +556,7 @@
     "lng": -3.73357,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
-    "mensaje": "giramos a derecha y seguidamente a izquierda en ciudad universitaria",
+    "mensaje": "giramos a derecha,  seguidamente a izquierda en ciudad universitaria",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -578,7 +578,7 @@
     "lng": -3.734279,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
-    "mensaje": "giramos a la derecha y luego giramos a derecha",
+    "mensaje": "giramos a la derecha",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -589,7 +589,7 @@
     "lng": -3.732371,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.left",
-    "mensaje": "giramos a la izquierda facultades y luego giramos a izquierda dirección facultades",
+    "mensaje": "giramos a la izquierda facultades,  luego giramos a izquierda dirección facultades",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
