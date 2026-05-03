@@ -1,0 +1,189 @@
+[
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.420189,
+    "lng": -3.707246,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Inicio de ruta. al fínal de la calle giramos a la izquierda",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.421235,
+    "lng": -3.707448,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada.  seguimos de frente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.422422,
+    "lng": -3.70932,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Parada.  luego en la glorieta giramos a la izquierda en dirección badajoz",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.423354,
+    "lng": -3.710821,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "En glorieta giramos a la izquierda despues parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.42279,
+    "lng": -3.711931,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada. contiuamos recto en dirección estación principe pío",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.421465,
+    "lng": -3.713851,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada.  seguimos de frente en dirección estación principe pío",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.420515,
+    "lng": -3.715287,
+    "radio_metros": 60,
+    "icono_sf": "road.lanes",
+    "mensaje": "Seguimos recto y luego parada en dirección estación principe pío por fuera del tunel",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.420341,
+    "lng": -3.717865,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Aqui no tenemos parada. despues en la glorieta primera salida a derecha en dirección principe pío",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.42053,
+    "lng": -3.720234,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "En la glorieta primera salida a la derecha despues parada en primera marquesina",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.42277,
+    "lng": -3.723019,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada.  seguimos de frente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.424274,
+    "lng": -3.724774,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Parada.  despues giramos la segunda a la derecha en dirección calle san pol del mar",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.42594,
+    "lng": -3.726339,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Giramos a la izquierda y luego a la derecha en dirección san pol del mar cuzamos el río",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.424564,
+    "lng": -3.72687,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Cruzamos el río y giramos a la derecha en dirección calle santa fe",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.426301,
+    "lng": -3.729388,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.427281,
+    "lng": -3.730595,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada.  seguimos de frente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.429468,
+    "lng": -3.73332,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada.  continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.430575,
+    "lng": -3.734685,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Fín de línea",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  }
+]
