@@ -182,7 +182,7 @@
     "lng": -3.745192,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
-    "mensaje": "Parada y luego giramos a derecha",
+    "mensaje": "giramos a la derecha y parada.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
