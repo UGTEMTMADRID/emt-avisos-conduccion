@@ -699,7 +699,7 @@
     "lng": -3.66321,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "Inicio de recorrido desvío nos guiamos visualmente",
+    "mensaje": "Inicio de recorrido desvío sigue la linea de la ruta",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -710,7 +710,7 @@
     "lng": -3.666332,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "Nos guiamos visualmente",
+    "mensaje": "sigue la linea de la ruta",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -721,7 +721,7 @@
     "lng": -3.669825,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "Seguimos por avenida del mediterráneo y luego Parada seguimos por avenida del mediterráneo y luego Parada nos guiamos visualmente nos guiamos visualmente",
+    "mensaje": "Seguimos por avenida del mediterráneo y luego Parada seguimos por avenida del mediterráneo y luego Parada nos guiamos visualmente sigue la linea de la ruta",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
