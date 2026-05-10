@@ -134,8 +134,8 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toB",
-    "lat": 40.480565,
-    "lng": -3.675597,
+    "lat": 40.480408,
+    "lng": -3.675676,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "En la glorieta primera salida a la derecha y después parada",
