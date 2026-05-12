@@ -41,7 +41,8 @@
     "icono_sf": "arrow.up",
     "mensaje": "Parada  continuamos recto",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
@@ -52,7 +53,8 @@
     "icono_sf": "arrow.up",
     "mensaje": "Parada  continuamos recto",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
@@ -63,7 +65,8 @@
     "icono_sf": "arrow.turn.up.left",
     "mensaje": "Parada  después giramos a izquierda",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
@@ -74,7 +77,8 @@
     "icono_sf": "arrow.up",
     "mensaje": "Parada  continuamos de frente",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
