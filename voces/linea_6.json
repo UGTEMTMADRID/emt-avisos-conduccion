@@ -788,8 +788,8 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toB",
-    "lat": 40.386685,
-    "lng": -3.699007,
+    "lat": 40.386716,
+    "lng": -3.699017,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "parada y continuamos",
@@ -799,8 +799,8 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toB",
-    "lat": 40.384028,
-    "lng": -3.698205,
+    "lat": 40.385059,
+    "lng": -3.698501,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "parada y continua",
@@ -810,8 +810,8 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toB",
-    "lat": 40.381974,
-    "lng": -3.697568,
+    "lat": 40.382627,
+    "lng": -3.697759,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "linea desviada contnua",
