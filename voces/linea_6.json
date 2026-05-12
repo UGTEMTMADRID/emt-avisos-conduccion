@@ -916,5 +916,38 @@
     "mensaje": "linea desviada por obras",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.383343,
+    "lng": -3.702728,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "atencion noelia",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.38319,
+    "lng": -3.702262,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "subnormal, escucha el numero con letras trescientos",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.383092,
+    "lng": -3.701687,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "ahora escuacha el numero con numeros coño 300",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
