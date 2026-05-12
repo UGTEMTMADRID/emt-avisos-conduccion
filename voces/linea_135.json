@@ -1,0 +1,178 @@
+[
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.467249,
+    "lng": -3.688832,
+    "radio_metros": 60,
+    "icono_sf": "arrow.uturn.down",
+    "mensaje": "Linea 135 inicio hacemos cambio de sentido en direccion las cuatro torres",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.468858,
+    "lng": -3.688202,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En direccion las cuatro torres y nos mantenemos por la derecha",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.470721,
+    "lng": -3.687659,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada 135 y continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.47221,
+    "lng": -3.68727,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y salimos por la izquierda en direccion sinesio delgado",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.474669,
+    "lng": -3.686705,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Giramos a la izquierda en direccion sinesio delgado",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.475312,
+    "lng": -3.688067,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Parada y después nos mantenemos a la derecha de frente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.477009,
+    "lng": -3.6904,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Luego giramos a derecha en direccion hospital ramon y cajal",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.478773,
+    "lng": -3.690696,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En direccion hospital ramon y cajal",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.479769,
+    "lng": -3.689326,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Seguimos de frente y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.48156,
+    "lng": -3.6888,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Aqui no hay parada continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.48306,
+    "lng": -3.688942,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Giramos a la derecha vamos por el puente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.484266,
+    "lng": -3.688941,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Giramos a la izquierda y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.485601,
+    "lng": -3.692498,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.486802,
+    "lng": -3.69546,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Giramos a la derecha",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.48792,
+    "lng": -3.69516,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Giramos a la derecha y final de linea",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.487829,
+    "lng": -3.693713,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Final de linea los aseos en puerta principa o en cafeteria a izquierda",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  }
+]
