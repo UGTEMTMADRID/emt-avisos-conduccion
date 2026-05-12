@@ -42,7 +42,7 @@
     "mensaje": "Parada  continuamos recto",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
@@ -54,7 +54,7 @@
     "mensaje": "Parada  continuamos recto",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
@@ -66,7 +66,7 @@
     "mensaje": "Parada  después giramos a izquierda",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
@@ -78,7 +78,7 @@
     "mensaje": "Parada  continuamos de frente",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
