@@ -916,38 +916,5 @@
     "mensaje": "linea desviada por obras",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
-  },
-  {
-    "tipo": "voz_personalizada",
-    "direccion": "toA",
-    "lat": 40.388636,
-    "lng": -3.698821,
-    "radio_metros": 60,
-    "icono_sf": "arrow.turn.up.right",
-    "mensaje": "atencion noelia",
-    "distancia_previa_metros": 110,
-    "mensaje_previo": ""
-  },
-  {
-    "tipo": "voz_personalizada",
-    "direccion": "toA",
-    "lat": 40.389399,
-    "lng": -3.697702,
-    "radio_metros": 60,
-    "icono_sf": "arrow.turn.up.right",
-    "mensaje": "para subnormales con letras trescientos",
-    "distancia_previa_metros": 110,
-    "mensaje_previo": ""
-  },
-  {
-    "tipo": "voz_personalizada",
-    "direccion": "toA",
-    "lat": 40.389923,
-    "lng": -3.696928,
-    "radio_metros": 60,
-    "icono_sf": "arrow.turn.up.right",
-    "mensaje": "ahora para listillos sin letras 300 numerico coño",
-    "distancia_previa_metros": 110,
-    "mensaje_previo": ""
   }
 ]
