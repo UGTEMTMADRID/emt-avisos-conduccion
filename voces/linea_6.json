@@ -920,8 +920,8 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toA",
-    "lat": 40.383343,
-    "lng": -3.702728,
+    "lat": 40.388636,
+    "lng": -3.698821,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "atencion noelia",
@@ -931,22 +931,22 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toA",
-    "lat": 40.38319,
-    "lng": -3.702262,
+    "lat": 40.389399,
+    "lng": -3.697702,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
-    "mensaje": "subnormal, escucha el numero con letras trescientos",
+    "mensaje": "para subnormales con letras trescientos",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
   {
     "tipo": "voz_personalizada",
     "direccion": "toA",
-    "lat": 40.383092,
-    "lng": -3.701687,
+    "lat": 40.389923,
+    "lng": -3.696928,
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
-    "mensaje": "ahora escuacha el numero con numeros coño 300",
+    "mensaje": "ahora para listillos sin letras 300 numerico coño",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   }
