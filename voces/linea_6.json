@@ -905,5 +905,16 @@
     "mensaje": "izquierda y fin de desvio",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.390094,
+    "lng": -3.696674,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "linea desviada por obras",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
