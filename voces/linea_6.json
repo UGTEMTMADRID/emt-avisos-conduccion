@@ -266,8 +266,8 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toA",
-    "lat": 40.391486,
-    "lng": -3.694606,
+    "lat": 40.39123,
+    "lng": -3.694849,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
     "mensaje": "En dirección junta municipal de arganzuela a continuación, parada.",
@@ -277,8 +277,8 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toA",
-    "lat": 40.393005,
-    "lng": -3.697589,
+    "lat": 40.392952,
+    "lng": -3.697601,
     "radio_metros": 60,
     "icono_sf": "road.curved.right",
     "mensaje": "Parada. a continuación, segunda salida a derecha por jaime el conquistador.",
@@ -914,6 +914,28 @@
     "radio_metros": 60,
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "linea desviada por obras",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.399072,
+    "lng": -3.698083,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "100",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.40048,
+    "lng": -3.699049,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "cien",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   }
