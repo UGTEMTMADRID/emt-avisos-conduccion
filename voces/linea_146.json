@@ -893,5 +893,27 @@
     "mensaje": "Fín de línea 146 saludos de Juan",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.420131,
+    "lng": -3.703158,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "atento jose vicente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.418835,
+    "lng": -3.696141,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "aqui termina",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
