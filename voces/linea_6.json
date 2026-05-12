@@ -916,27 +916,5 @@
     "mensaje": "linea desviada por obras",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
-  },
-  {
-    "tipo": "voz_personalizada",
-    "direccion": "toA",
-    "lat": 40.399072,
-    "lng": -3.698083,
-    "radio_metros": 60,
-    "icono_sf": "arrow.turn.up.right",
-    "mensaje": "100",
-    "distancia_previa_metros": 110,
-    "mensaje_previo": ""
-  },
-  {
-    "tipo": "voz_personalizada",
-    "direccion": "toA",
-    "lat": 40.40048,
-    "lng": -3.699049,
-    "radio_metros": 60,
-    "icono_sf": "arrow.turn.up.right",
-    "mensaje": "cien",
-    "distancia_previa_metros": 110,
-    "mensaje_previo": ""
   }
 ]
