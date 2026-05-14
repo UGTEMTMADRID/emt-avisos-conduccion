@@ -1,0 +1,189 @@
+[
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.375926,
+    "lng": -3.65764,
+    "radio_metros": 60,
+    "icono_sf": "arrow.uturn.down",
+    "mensaje": "Linea t 31 inicio y hacemos un cambio de sentido a la izquierda",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.37538,
+    "lng": -3.656033,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la glorieta segunda salida en direccion m 40",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.37541,
+    "lng": -3.654381,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En direccion m 40",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.374866,
+    "lng": -3.650961,
+    "radio_metros": 60,
+    "icono_sf": "road.lanes",
+    "mensaje": "Entramos por el tunel y continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.373643,
+    "lng": -3.651001,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.372647,
+    "lng": -3.649315,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Giramos a la izquierda y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.373748,
+    "lng": -3.646525,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la glorieta continuamosrecto y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.374683,
+    "lng": -3.643009,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la glorieta continuamos de frente y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.375537,
+    "lng": -3.639582,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Seguimos recto y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.37662,
+    "lng": -3.63592,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y continuamos de frente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.377088,
+    "lng": -3.631549,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la glorieta cuarta salida hacia supermercado dia",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.377402,
+    "lng": -3.629933,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Hacia supermercado dia y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.378868,
+    "lng": -3.628136,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y continuamos de frente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.380484,
+    "lng": -3.626086,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y en la glorieta tercera salida por calle san jaime",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.381413,
+    "lng": -3.624361,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la misma glorieta parada y después continuamos por debajo del puente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.383697,
+    "lng": -3.625498,
+    "radio_metros": 60,
+    "icono_sf": "arrow.uturn.down",
+    "mensaje": "Cambio de sentido en la glorieta y final de linea en mercadona",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.38227,
+    "lng": -3.62449,
+    "radio_metros": 60,
+    "icono_sf": "arrow.uturn.down",
+    "mensaje": "En la glorieta cambio de sentido y final de linea en mercadona",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  }
+]
