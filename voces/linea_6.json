@@ -426,7 +426,8 @@
     "icono_sf": "arrow.up",
     "mensaje": "Inicio de ruta hacia orcasitas.",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
@@ -627,7 +628,7 @@
     "mensaje": "Girar a la izquierda por calle san antonio padua a continuación, parada.",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": true
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
