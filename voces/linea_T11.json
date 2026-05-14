@@ -119,5 +119,115 @@
     "mensaje": "Al pasar el semáforo todo a derecha y fínal de línea cuidado tramo estrecho",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.477019,
+    "lng": -3.637069,
+    "radio_metros": 60,
+    "icono_sf": "arrow.uturn.down",
+    "mensaje": "Linea t 11 en sentido mar de cristal inicio y después en glorieta hacemos cambio de sentido",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.474477,
+    "lng": -3.634331,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Nos mantenemos a derecha y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.47275,
+    "lng": -3.631943,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "A izquierda y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.47173,
+    "lng": -3.629201,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "Parada después del semáforo y continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.470116,
+    "lng": -3.62762,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "La parada junto al semáforo y después en la glorieta primera salida",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.46873,
+    "lng": -3.627544,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la glorieta segunda salida en dirección centro comercial",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.468754,
+    "lng": -3.630741,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "Parada junto al semáforo y continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.46942,
+    "lng": -3.633848,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Parada y después nos mantenemos a la izquierda",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.469676,
+    "lng": -3.636409,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "Entramos en la glorieta y fínal de línea pasado el metro junto al semáforo",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.469712,
+    "lng": -3.638553,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "Entramos en la glorieta y fínal de línea pasado el metro junto al semáforo",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
