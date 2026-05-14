@@ -75,5 +75,104 @@
     "mensaje": "Hacemos un cambio de sentido y final de linea",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.398076,
+    "lng": -3.584144,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Linea T 23 inicio y seguimos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.396541,
+    "lng": -3.584886,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la glorieta primera salida y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.398312,
+    "lng": -3.588798,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.400337,
+    "lng": -3.591489,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y en la glorieta segunda salida",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.401787,
+    "lng": -3.592944,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Salimos de la glorieta",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.402959,
+    "lng": -3.59429,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Parada y hacemos la glorieta para girar a la izquierda hacia estacion de vocalvaro",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.40381,
+    "lng": -3.595351,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En direccion estacion de vicalvaro",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.402441,
+    "lng": -3.596289,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Giramos a la izquierda y entramos en estacion de vicalvaro",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.401117,
+    "lng": -3.596513,
+    "radio_metros": 60,
+    "icono_sf": "arrow.uturn.down",
+    "mensaje": "Parada y hacemos cambio de sentido y después final de linea",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
