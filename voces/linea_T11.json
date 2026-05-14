@@ -1,0 +1,123 @@
+[
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.46933,
+    "lng": -3.63874,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Linea t 11 en sentido cristalia inicio salimos de la glorieta y continuamos recto por calle arequipa",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.46892,
+    "lng": -3.63732,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y continuamos recto por calle arequipa",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.468671,
+    "lng": -3.634717,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y continuamos recto por la derecha",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.468725,
+    "lng": -3.631346,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y continuamos todo recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.468423,
+    "lng": -3.629104,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la glorieta tercera salida y después en dirección vía de los poblados",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.469144,
+    "lng": -3.626638,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "En la glorieta giramos a la izquierda en dirección vía de los poblados y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.470985,
+    "lng": -3.628373,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "Parada junto al semáforo y continuamos recto hasta el fínal de calle",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.472798,
+    "lng": -3.631393,
+    "radio_metros": 60,
+    "icono_sf": "figure.walk",
+    "mensaje": "Parada junto al paso de peatones y continuamos de frente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.473687,
+    "lng": -3.633021,
+    "radio_metros": 60,
+    "icono_sf": "figure.walk",
+    "mensaje": "Parada junto al paso de peatones y continuamos todo recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.475429,
+    "lng": -3.635643,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y continuamos todo recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.476605,
+    "lng": -3.637287,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "Al pasar el semáforo todo a derecha y fínal de línea cuidado tramo estrecho",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  }
+]
