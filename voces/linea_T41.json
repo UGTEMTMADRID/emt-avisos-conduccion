@@ -174,5 +174,181 @@
     "mensaje": "Fínal de línea en la misma glorieta",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.33202,
+    "lng": -3.701159,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "línea t 41 en sentido villaverde alto inicio y continuamos de frente primera salida",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.333484,
+    "lng": -3.701261,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la glorieta continuamos recto y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.335603,
+    "lng": -3.701287,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "En glorieta giramos a izquierda tercera salida y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.33594,
+    "lng": -3.705534,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Parada y en la glorieta giramos a la izquierda tercera salida",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.334077,
+    "lng": -3.706418,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Giramos a la derecha y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.333628,
+    "lng": -3.710311,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y en la glorieta continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.333689,
+    "lng": -3.712443,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Cruzamos via principal de frente y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.3336,
+    "lng": -3.714991,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "Giramos a la derecha en semáforo",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.33534,
+    "lng": -3.715412,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En glorieta continuamos recto y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.33742,
+    "lng": -3.715348,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos recto en cruce y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.339688,
+    "lng": -3.715308,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Parada y en la glorieta giramos a la izquierda segunda salida",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.340612,
+    "lng": -3.716968,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la glorieta parada y cogemos la primera salida",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.341339,
+    "lng": -3.718252,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En glorieta primera salida y después otra vez a derecha",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.34215,
+    "lng": -3.715727,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "Parada junto al semáforo y después giramos a derecha para entrar en la estación",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.342078,
+    "lng": -3.713881,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Giramos a la derecha para entrar en estación y después final de línea",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.341705,
+    "lng": -3.712303,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Final de linea en segunda marquesina",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
