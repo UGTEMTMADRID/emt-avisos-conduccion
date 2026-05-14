@@ -1,0 +1,189 @@
+[
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.467461,
+    "lng": -3.688776,
+    "radio_metros": 60,
+    "icono_sf": "arrow.uturn.down",
+    "mensaje": "Línea 177 en sentido Marqués de viana inicio y damos la vuelta al intercambiador y al llegar a espigón numero 43 giramos a la izquierda",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.468198,
+    "lng": -3.689967,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En glorieta primera salida a derecha y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.469484,
+    "lng": -3.689751,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Seguimos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.471423,
+    "lng": -3.689189,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Giramos a la izquierda por plaza del este tramo estrecho y después parada y después continuamos por matil landa",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.472255,
+    "lng": -3.69163,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.472942,
+    "lng": -3.693617,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Seguimos recto y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.471997,
+    "lng": -3.695673,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.470993,
+    "lng": -3.696529,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Parada  después giramos la segunda a la derecha por vía principal",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.47167,
+    "lng": -3.698574,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Parada  después hacemos la glorieta para girar a la izquierda cuarta salida",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.4716,
+    "lng": -3.701829,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos recto por el carril izquierdo",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.470286,
+    "lng": -3.702938,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Giramos a la izquierda y después primera a derecha y parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.468078,
+    "lng": -3.704406,
+    "radio_metros": 60,
+    "icono_sf": "exclamationmark.triangle.fill",
+    "mensaje": "Parada  después giramos a la izquierda atención  con el retrovisor derecho en el giro",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.466964,
+    "lng": -3.703936,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Parada  después giramos a la derecha tramo estrecho",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.465053,
+    "lng": -3.70433,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Ligeramente a izquierda y después parada tramo estrecho",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.464186,
+    "lng": -3.704389,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Al final de la calle giramos a la derecha",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.4641,
+    "lng": -3.705626,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Final de línea al final de la calle",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.47326,
+    "lng": -3.695132,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Al salir del soportal giramos a la izquierda",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  }
+]
