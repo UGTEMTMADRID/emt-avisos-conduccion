@@ -639,7 +639,7 @@
     "mensaje": "Parada. a continuación, girar a la derecha por calle santuario.",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": true
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
