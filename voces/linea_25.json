@@ -603,7 +603,8 @@
     "icono_sf": "arrow.turn.up.left",
     "mensaje": "· Parada. luego al final de la calle a la izquierda.",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
@@ -615,7 +616,7 @@
     "mensaje": "· Continuar recto y nos mantenemos en el carril derecho.",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
