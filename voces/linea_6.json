@@ -570,7 +570,8 @@
     "icono_sf": "arrow.up",
     "mensaje": "Parada. a continuación, en la glorieta, tomar la primera salida en dirección glorieta de cádiz.",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
