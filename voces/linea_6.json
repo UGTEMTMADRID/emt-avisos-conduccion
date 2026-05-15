@@ -605,7 +605,7 @@
     "mensaje": "En la glorieta, continuar recto segunda salida en dirección plaza de fernández ladreda.",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
