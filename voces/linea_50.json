@@ -174,7 +174,8 @@
     "icono_sf": "arrow.turn.up.left",
     "mensaje": "· Girar a la izquierda y parada.",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
@@ -185,7 +186,8 @@
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "· Parada. luego al final de la calle girar a la derecha.",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
