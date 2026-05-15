@@ -235,7 +235,8 @@
     "icono_sf": "arrow.up",
     "mensaje": "· Parada. continuar de frente.",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
