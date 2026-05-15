@@ -278,7 +278,8 @@
     "icono_sf": "arrow.turn.up.left",
     "mensaje": "· Girar a la izquierda y parada.. volvemos a girar a izquierda.",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
