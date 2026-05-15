@@ -246,7 +246,8 @@
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "· Continuar recto y nos mantenemos a la derecha en dirección a glorieta puerta de toledo.",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
