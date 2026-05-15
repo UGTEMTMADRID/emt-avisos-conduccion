@@ -691,7 +691,7 @@
     "mensaje": "Parada  continuamos de frente por doctor esquerdo",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
