@@ -526,7 +526,7 @@
     "mensaje": "· En direccion paseo ermita del santo.",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
