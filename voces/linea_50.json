@@ -211,7 +211,8 @@
     "icono_sf": "arrow.up",
     "mensaje": "· Línea 50 en sentido plaza mayor.",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
