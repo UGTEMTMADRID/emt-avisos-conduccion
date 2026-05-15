@@ -668,7 +668,8 @@
     "icono_sf": "arrow.up",
     "mensaje": "Parada en frente del ahorra mas , en la glorieta primera salida",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
