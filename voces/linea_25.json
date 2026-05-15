@@ -614,7 +614,8 @@
     "icono_sf": "arrow.up",
     "mensaje": "· Continuar recto y nos mantenemos en el carril derecho.",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
