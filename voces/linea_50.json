@@ -236,7 +236,7 @@
     "mensaje": "· Parada. continuar de frente.",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": true
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
