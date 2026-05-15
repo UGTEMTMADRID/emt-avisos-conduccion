@@ -525,7 +525,8 @@
     "icono_sf": "arrow.up",
     "mensaje": "· En direccion paseo ermita del santo.",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
