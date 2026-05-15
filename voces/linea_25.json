@@ -612,8 +612,8 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toB",
-    "lat": 40.399616,
-    "lng": -3.73431,
+    "lat": 40.399105,
+    "lng": -3.734006,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
     "mensaje": "· Continuar recto y nos mantenemos en el carril derecho.",
