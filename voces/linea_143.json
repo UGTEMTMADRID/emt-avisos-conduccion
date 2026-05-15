@@ -679,7 +679,8 @@
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "Giramos a la derecha por doctor esquerdo con parada posterior",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
