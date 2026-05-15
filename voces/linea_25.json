@@ -211,8 +211,8 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toA",
-    "lat": 40.403071,
-    "lng": -3.724592,
+    "lat": 40.40551,
+    "lng": -3.724659,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
     "mensaje": "· Continuar de frente y después parada en cartel luminoso.",
@@ -222,8 +222,8 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toA",
-    "lat": 40.404753,
-    "lng": -3.724715,
+    "lat": 40.40551,
+    "lng": -3.724659,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
     "mensaje": "· Continuar de frente en dirección a puente de segovia.",
