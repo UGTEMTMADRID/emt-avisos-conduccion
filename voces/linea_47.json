@@ -758,7 +758,7 @@
     "mensaje": "Girar a la derecha por la calle tortosa y luego fín de línea.",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
