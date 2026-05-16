@@ -816,5 +816,27 @@
     "mensaje": "comienzo linea 47 cabezera cambiada por obras, giramos a la derecha calle rafael de riego",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.405005,
+    "lng": -3.693477,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "giramos a la derecha calle murcia cabezera cambiada por obras",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.405174,
+    "lng": -3.692662,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "fin de linea cabezera cambiada por obras",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
