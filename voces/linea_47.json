@@ -228,7 +228,8 @@
     "icono_sf": "light.beacon.max.fill",
     "mensaje": "· En el semaforo girar a la derecha por la calle besolla y parada.",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
