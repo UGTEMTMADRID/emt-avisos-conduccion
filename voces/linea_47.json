@@ -801,6 +801,7 @@
     "icono_sf": "arrow.up",
     "mensaje": "Fínal de línea en calle tortosa.",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   }
 ]
