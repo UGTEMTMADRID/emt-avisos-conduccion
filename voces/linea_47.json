@@ -758,7 +758,8 @@
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "· Girar a la derecha por la calle tortosa y luego fín de línea.",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
