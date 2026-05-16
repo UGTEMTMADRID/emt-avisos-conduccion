@@ -780,5 +780,27 @@
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
     "activo": false
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.40469,
+    "lng": -3.693515,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "giramos a la derecha por calle murcia, final de linea cabezera cambiada por obras",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.405175,
+    "lng": -3.692667,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "final de linea, cabecera cambiada por obras",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
