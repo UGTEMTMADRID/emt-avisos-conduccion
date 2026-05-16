@@ -803,6 +803,6 @@
     "mensaje": "Fínal de línea en calle tortosa.",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   }
 ]
