@@ -778,6 +778,7 @@
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "Giremos a la derecha por calle tortosa y fín de línea Giremos a la derecha por calle tortosa y luego fín de línea saludos de",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   }
 ]
