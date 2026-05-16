@@ -802,6 +802,18 @@
     "icono_sf": "arrow.up",
     "mensaje": "· Fín de línea en calle tortosa.",
     "distancia_previa_metros": 110,
+    "mensaje_previo": "",
+    "activo": false
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.405175,
+    "lng": -3.692672,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "comienzo linea 47 cabezera cambiada por obras, giramos a la derecha calle rafael de riego",
+    "distancia_previa_metros": 110,
     "mensaje_previo": ""
   }
 ]
