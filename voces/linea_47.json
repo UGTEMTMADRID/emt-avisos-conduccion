@@ -229,7 +229,7 @@
     "mensaje": "· En el semaforo girar a la derecha por la calle besolla y parada.",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
