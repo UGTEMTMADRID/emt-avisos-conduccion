@@ -108,5 +108,93 @@
     "mensaje": "Cambio de sentido en glorieta y fín de línea en frente del parking",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.38749,
+    "lng": -3.618383,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Línea h 1 en sentido sierra de guadalupe inicio y seguimos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.387007,
+    "lng": -3.616338,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y en la glorieta primera salida a derecha",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.38559,
+    "lng": -3.615735,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la glorieta primera salida",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.384438,
+    "lng": -3.619461,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En glorieta seguimos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.384439,
+    "lng": -3.621609,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Salimos de la glorieta",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.383981,
+    "lng": -3.623882,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la glorieta cuarta salida y después entramos por el intercambiador junto al mercadona y fín de línea",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.38363,
+    "lng": -3.62522,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En glorieta cuarta salida y después entramos por el intercambiador junto al mercadona y después fínal de línea",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.382499,
+    "lng": -3.625141,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Fín de línea en segunda marquesina",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
