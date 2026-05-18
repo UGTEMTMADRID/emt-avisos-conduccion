@@ -1,0 +1,112 @@
+[
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.382437,
+    "lng": -3.625106,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Linea h 1 en sentido hospital infanta leonor inicio y continuamos recto  sigue la linea de la ruta",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.381456,
+    "lng": -3.624394,
+    "radio_metros": 60,
+    "icono_sf": "arrow.uturn.down",
+    "mensaje": "En la glorieta cambio de sentido y parada y salimos por debajo del puente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.383418,
+    "lng": -3.625171,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la glorieta primera salida hospital infanta leonor sigue la linea de la ruta",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.384134,
+    "lng": -3.6225,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la glorieta continuamos de frente primera salida",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.384261,
+    "lng": -3.62036,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Salimos de la glorieta",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.384523,
+    "lng": -3.617438,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la glorieta primera salida",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.385315,
+    "lng": -3.615621,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Salimos de la glorieta",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.386551,
+    "lng": -3.615181,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En la glorieta segunda salida y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.387207,
+    "lng": -3.617174,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.387583,
+    "lng": -3.618837,
+    "radio_metros": 60,
+    "icono_sf": "arrow.uturn.down",
+    "mensaje": "Cambio de sentido en glorieta y fín de línea en frente del parking",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  }
+]
