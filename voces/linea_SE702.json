@@ -119,5 +119,148 @@
     "mensaje": "En la glorieta final de linea",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.36779,
+    "lng": -3.734299,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Linea 702 Inicio de recorrido y cogemos la segunda salida",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.367998,
+    "lng": -3.731674,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada y en la glorieta segunda salida",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.367998,
+    "lng": -3.726758,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos recto hacia capilla",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.367827,
+    "lng": -3.724741,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Parada y después Girar a la derecha y despues a la izquierda",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.367495,
+    "lng": -3.722739,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Salir de cementerio y Girar a la izquierda",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.36891,
+    "lng": -3.721579,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos de frente hasta el final de la calle",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.373,
+    "lng": -3.721622,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Parada y después Girar a la derecha",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.37359,
+    "lng": -3.719979,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "Hacemos la glorieta para girar a la izquierda en direccion plaza fernandez ladreda",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.37379,
+    "lng": -3.719359,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En direccion plaza de fernandez ladreda y no tenemos paradas",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.375449,
+    "lng": -3.719299,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Seguimos por la izquierda",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.378173,
+    "lng": -3.718983,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Bajamos a estacion solo bus planta primera y espigon numero 3",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.379715,
+    "lng": -3.718907,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Bajamos a estacion solo bus planta primera y espigon numero 3",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.380855,
+    "lng": -3.718785,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Planta primera y espigon numero 3",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
