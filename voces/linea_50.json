@@ -200,7 +200,7 @@
     "mensaje": "· Después de la curva fín de línea.",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
