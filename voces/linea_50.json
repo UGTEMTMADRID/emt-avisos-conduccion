@@ -248,7 +248,7 @@
     "mensaje": "· Continuar recto y nos mantenemos a la derecha en dirección a glorieta puerta de toledo.",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
