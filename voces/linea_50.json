@@ -176,7 +176,7 @@
     "mensaje": "· Girar a la izquierda y parada.",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
