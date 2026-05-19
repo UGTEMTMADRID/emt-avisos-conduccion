@@ -1,0 +1,156 @@
+[
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.448474,
+    "lng": -3.73386,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Linea f inicio y giramos a la derecha",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.447834,
+    "lng": -3.731914,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.448124,
+    "lng": -3.729333,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos de frente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.448449,
+    "lng": -3.726254,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos por la derecha",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.447625,
+    "lng": -3.724717,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Salimos por la izquierda en direccion escuela diplomatica",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.445927,
+    "lng": -3.72223,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos de frente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.44681,
+    "lng": -3.719028,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.445985,
+    "lng": -3.71542,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "continuamos recto  después parada en semaforo",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.446145,
+    "lng": -3.713003,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Aqui no tenemos parada y continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.44655,
+    "lng": -3.711331,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos recto en direccion glorieta de cuatro caminos",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.447055,
+    "lng": -3.709252,
+    "radio_metros": 60,
+    "icono_sf": "road.lanes",
+    "mensaje": "continuamos recto por fuera del tunel hacia glorieta de cuatro caminos",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.446962,
+    "lng": -3.707241,
+    "radio_metros": 60,
+    "icono_sf": "arrow.uturn.down",
+    "mensaje": "Parada  después en la glorieta de cuatro caminos hacemos un cambio de sentido",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.446842,
+    "lng": -3.705258,
+    "radio_metros": 60,
+    "icono_sf": "arrow.uturn.down",
+    "mensaje": "Parada  en la glorieta hacemos un cambio de sentido  final de linea",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.447052,
+    "lng": -3.703691,
+    "radio_metros": 60,
+    "icono_sf": "arrow.uturn.down",
+    "mensaje": "Cambio de sentido en glorieta  después entramos al intercambiador  final de linea",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  }
+]
