@@ -528,7 +528,8 @@
     "icono_sf": "road.lanes",
     "mensaje": "Al salir del tunel tenemos parada",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
