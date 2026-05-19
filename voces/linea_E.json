@@ -607,5 +607,27 @@
     "mensaje": "nos fijamos en la linea de la ruta",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.406338,
+    "lng": -3.663984,
+    "radio_metros": 60,
+    "icono_sf": "exclamationmark.triangle.fill",
+    "mensaje": "atencion desvio por obra nos fijamos en la linea de la ruta",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.406457,
+    "lng": -3.668149,
+    "radio_metros": 60,
+    "icono_sf": "exclamationmark.triangle.fill",
+    "mensaje": "nos fijamos en la linea de la ruta",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
