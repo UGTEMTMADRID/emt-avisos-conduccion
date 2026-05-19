@@ -196,5 +196,126 @@
     "mensaje": "Después de la curva fín de línea",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.448414,
+    "lng": -3.734369,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Línea g en sentido moncloa",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.447863,
+    "lng": -3.731766,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos recto en direccion moncloa cuatro caminos",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.448133,
+    "lng": -3.729245,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Giramos la primera a la derecha y luego parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.44565,
+    "lng": -3.727542,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.443542,
+    "lng": -3.727153,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos de frente",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.440768,
+    "lng": -3.72665,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  en la glorieta cuarta salida en direccion rectorado u c m",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.439425,
+    "lng": -3.726302,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En direccion rectorado",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.438293,
+    "lng": -3.724795,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos todo recto por el carril bus",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.437498,
+    "lng": -3.723477,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos recto por el carril bus",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.436642,
+    "lng": -3.721856,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "entramos al intercambiador solo bus y fínal de línea en isla 3 y darsena numero 30",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.43569,
+    "lng": -3.720438,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Fínal de línea en isla 3 y darsena numero 32",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
