@@ -239,7 +239,8 @@
     "icono_sf": "road.lanes",
     "mensaje": "Parada  después entramos por el tunel",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
