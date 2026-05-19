@@ -585,5 +585,27 @@
     "mensaje": "continuamos recto conde de casal",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.407178,
+    "lng": -3.674997,
+    "radio_metros": 60,
+    "icono_sf": "exclamationmark.triangle.fill",
+    "mensaje": "atención desvio por obras nos fijamos en la linea de la ruta",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.406991,
+    "lng": -3.672964,
+    "radio_metros": 60,
+    "icono_sf": "exclamationmark.triangle.fill",
+    "mensaje": "nos fijamos en la linea de la ruta",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
