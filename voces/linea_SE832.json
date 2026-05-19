@@ -369,7 +369,7 @@
     "lng": -3.717762,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "En dirección via lusitana y luego Parada",
+    "mensaje": "En dirección via lusitana después Parada",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -1359,7 +1359,7 @@
     "lng": -3.714339,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "Siempre en dirección glorieta de pirámides nos guiamos visualmente",
+    "mensaje": "Siempre en dirección glorieta de pirámides seguimos la linea de la ruta",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -1568,7 +1568,7 @@
     "lng": -3.720153,
     "radio_metros": 60,
     "icono_sf": "arrow.uturn.down",
-    "mensaje": "En la glorieta hacemos un cambio de sentido y luego fín de línea",
+    "mensaje": "En la glorieta hacemos un cambio de sentido  fín de línea",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
