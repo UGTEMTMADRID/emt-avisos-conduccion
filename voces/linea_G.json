@@ -1,0 +1,200 @@
+[
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.437156,
+    "lng": -3.7224,
+    "radio_metros": 60,
+    "icono_sf": "road.lanes",
+    "mensaje": "Nos vamos al carril derecho por fuera del tunel",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.43812,
+    "lng": -3.72397,
+    "radio_metros": 60,
+    "icono_sf": "road.lanes",
+    "mensaje": "continuamos recto por fuera del tunel",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.439096,
+    "lng": -3.725251,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "La parada en la misma glorieta  después cogemos la primera salida en dirección a facultades",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.440183,
+    "lng": -3.72656,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada en la misma glorieta  después cogemos primera salida en dirección a facultades",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.441144,
+    "lng": -3.726715,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.443167,
+    "lng": -3.727088,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.445298,
+    "lng": -3.727478,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.447089,
+    "lng": -3.727795,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Parada  después cogemos la segunda salida a la derecha en dirección a telecomunicación",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.448488,
+    "lng": -3.727505,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "En dirección a telecomunicación",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.449958,
+    "lng": -3.72741,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.4517,
+    "lng": -3.727729,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  vamos bordeando el polideportivo a izquierdas",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.452739,
+    "lng": -3.72952,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos bodeando el polideportivo",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.451221,
+    "lng": -3.729435,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Parada  continuamos recto  nos mantenemos en carril derecho",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.449533,
+    "lng": -3.729128,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "Parada  continuamos por el carril derecho  al final de la calle giramos a la derecha",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.448041,
+    "lng": -3.730128,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "continuamos recto por la derecha y parada junto al semáforo",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.44773,
+    "lng": -3.73289,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Nos mantenemos a derecha  pasamos por debajo del edificio y parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.450078,
+    "lng": -3.733989,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos bordeando la universidad",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.448494,
+    "lng": -3.73516,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "Después de la curva fín de línea",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  }
+]
