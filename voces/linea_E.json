@@ -515,7 +515,8 @@
     "icono_sf": "road.lanes",
     "mensaje": "Entramos por el tunel inicio desvío",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
