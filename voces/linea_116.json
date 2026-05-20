@@ -955,7 +955,8 @@
     "icono_sf": "arrow.turn.up.left",
     "mensaje": "Seguimos recto y parada después nos mantenemos a la izquierda",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
