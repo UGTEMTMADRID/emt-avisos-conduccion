@@ -932,8 +932,7 @@
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "Parada después giramos a derecha",
     "distancia_previa_metros": 110,
-    "mensaje_previo": "",
-    "activo": true
+    "mensaje_previo": ""
   },
   {
     "tipo": "voz_personalizada",
@@ -944,8 +943,7 @@
     "icono_sf": "arrow.up",
     "mensaje": "Seguimos todo recto por el puente",
     "distancia_previa_metros": 110,
-    "mensaje_previo": "",
-    "activo": true
+    "mensaje_previo": ""
   },
   {
     "tipo": "voz_personalizada",
@@ -956,8 +954,7 @@
     "icono_sf": "arrow.turn.up.left",
     "mensaje": "Seguimos recto y parada después nos mantenemos a la izquierda",
     "distancia_previa_metros": 110,
-    "mensaje_previo": "",
-    "activo": true
+    "mensaje_previo": ""
   },
   {
     "tipo": "voz_personalizada",
