@@ -957,7 +957,7 @@
     "mensaje": "Seguimos recto y parada después nos mantenemos a la izquierda",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
