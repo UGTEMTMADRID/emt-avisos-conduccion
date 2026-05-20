@@ -1495,16 +1495,5 @@
     "mensaje": "Fín de línea",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
-  },
-  {
-    "tipo": "voz_personalizada",
-    "direccion": "toA",
-    "lat": 40.367091,
-    "lng": -3.697311,
-    "radio_metros": 60,
-    "icono_sf": "arrow.turn.up.right",
-    "mensaje": "atento manu ja ja",
-    "distancia_previa_metros": 110,
-    "mensaje_previo": ""
   }
 ]
