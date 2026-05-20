@@ -178,11 +178,11 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toA",
-    "lat": 40.4084,
-    "lng": -3.741429,
+    "lat": 40.407443,
+    "lng": -3.743085,
     "radio_metros": 60,
-    "icono_sf": "arrow.up",
-    "mensaje": "· Continuar de frente.",
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "parada y continuamos a salir al paseo extremadura por la derecha del tunel",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
