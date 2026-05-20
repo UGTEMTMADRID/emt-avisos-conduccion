@@ -933,7 +933,7 @@
     "mensaje": "Parada después giramos a derecha",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
@@ -945,7 +945,7 @@
     "mensaje": "Seguimos todo recto por el puente",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
