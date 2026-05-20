@@ -457,7 +457,7 @@
     "lng": -3.738424,
     "radio_metros": 60,
     "icono_sf": "road.lanes",
-    "mensaje": "· Parada después en dirección a huerto de castañeda por el tunel.",
+    "mensaje": "· Parada después en dirección calle higueras por el tunel.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -468,7 +468,7 @@
     "lng": -3.740557,
     "radio_metros": 60,
     "icono_sf": "arrow.up",
-    "mensaje": "· En dirección a huerto de castañeda por la izquierda.",
+    "mensaje": "· En dirección a calle higueras por el tunel.",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
