@@ -932,7 +932,8 @@
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "Parada después giramos a derecha",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
