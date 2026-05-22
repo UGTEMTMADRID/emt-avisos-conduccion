@@ -903,7 +903,8 @@
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "al final de la calle gira a la izquierda y despues izquierda retoma la linea.",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
