@@ -834,7 +834,8 @@
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "giramos a derecha calle doctor tolosa latour",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
