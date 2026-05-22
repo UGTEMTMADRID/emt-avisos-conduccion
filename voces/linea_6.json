@@ -858,7 +858,8 @@
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "en la glorieta primera salida cristo de la vega",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
