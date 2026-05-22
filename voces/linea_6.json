@@ -822,7 +822,8 @@
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "linea desviada contnua",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
