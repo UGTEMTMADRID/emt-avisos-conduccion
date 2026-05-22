@@ -629,7 +629,7 @@
     "mensaje": "Girar a la izquierda por calle san antonio padua a continuación, parada.",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
