@@ -343,17 +343,6 @@
   {
     "tipo": "voz_personalizada",
     "direccion": "toB",
-    "lat": 40.396021,
-    "lng": -3.753142,
-    "radio_metros": 60,
-    "icono_sf": "arrow.up",
-    "mensaje": "en la glorieta de frente  segunda salida",
-    "distancia_previa_metros": 110,
-    "mensaje_previo": ""
-  },
-  {
-    "tipo": "voz_personalizada",
-    "direccion": "toB",
     "lat": 40.395325,
     "lng": -3.755258,
     "radio_metros": 60,
@@ -501,7 +490,7 @@
     "lng": -3.760155,
     "radio_metros": 60,
     "icono_sf": "exclamationmark.triangle.fill",
-    "mensaje": "atención usa los dos carriles para girar tramo estrecho  atención usa los dos carrles para girar tramo estrecho",
+    "mensaje": "atención usa los dos carriles para girar tramo estrecho",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   },
@@ -986,6 +975,17 @@
     "radio_metros": 60,
     "icono_sf": "mappin.circle.fill",
     "mensaje": "continuamos recto y después fin de línea junto al banco santander",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.396021,
+    "lng": -3.753141,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "en la glorieta continuamos de frente",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
   }
