@@ -786,7 +786,8 @@
     "icono_sf": "arrow.turn.up.right",
     "mensaje": "en glorieta de cadiz, desvio por avenida de cordoba,",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
