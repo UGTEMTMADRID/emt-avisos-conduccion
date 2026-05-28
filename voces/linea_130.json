@@ -1407,7 +1407,8 @@
     "icono_sf": "arrow.turn.up.left",
     "mensaje": "Giramos a la izquierda y después fín de línea",
     "distancia_previa_metros": 110,
-    "mensaje_previo": ""
+    "mensaje_previo": "",
+    "activo": false
   },
   {
     "tipo": "voz_personalizada",
