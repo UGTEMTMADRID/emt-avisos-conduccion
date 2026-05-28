@@ -714,7 +714,7 @@
     "mensaje": "Giramos a la izquierda para seguir por calle calahorra",
     "distancia_previa_metros": 110,
     "mensaje_previo": "",
-    "activo": false
+    "activo": true
   },
   {
     "tipo": "voz_personalizada",
