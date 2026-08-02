@@ -1,0 +1,112 @@
+[
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.448853,
+    "lng": -3.6096,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "721aSE  CANILLEJAS-ESTADIO METROPOLITANO",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.44877,
+    "lng": -3.6095,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "servicio especial en direccion estadio metropolitano        inicio y continuamos recto  después en la glorieta cogemos la segunda salida",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.44948,
+    "lng": -3.61028,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "en la glorieta segunda salida   después nos mantenemos en el carril derecho",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.449412,
+    "lng": -3.606845,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "giramos la segunda calle a la derecha junto a la pasarela",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.448522,
+    "lng": -3.605373,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "en la glorieta primera salida  en dirección plaza de grecia",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.447153,
+    "lng": -3.605646,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos de frente en dirección plaza de grecia",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.444173,
+    "lng": -3.604074,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos todo recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.439815,
+    "lng": -3.602374,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos todo recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.437021,
+    "lng": -3.604406,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "continuamos recto y fín de línea junto al semáforo",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.435952,
+    "lng": -3.605874,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "fín de línea junto al semáforo",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  }
+]
