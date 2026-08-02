@@ -108,5 +108,159 @@
     "mensaje": "fín de línea junto al semáforo",
     "distancia_previa_metros": 110,
     "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.435855,
+    "lng": -3.606075,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "721aSE  ESTADIO METROPOLITANO-CANILLEJAS",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.435921,
+    "lng": -3.605936,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "servicio especial estadio metropolitano en sentido a canillejas        en la glorieta cogemos la segunda salida en direccion hermanos garcia noblejas",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.435294,
+    "lng": -3.608132,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "salimos de la glorieta en direccion hermanos garcia noblejas",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.434813,
+    "lng": -3.610691,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "giramos la segunda a la derecha en direccion calle alcala",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.435763,
+    "lng": -3.612514,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos todo recto hasta el final de la calle",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.438795,
+    "lng": -3.614175,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos recto hasta el final de la calle",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.440545,
+    "lng": -3.615152,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos todo recto hasta el final de la calle",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.4419,
+    "lng": -3.615915,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "al final de la calle giramos a la derecha",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.443205,
+    "lng": -3.616612,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "al final de la calle giramos a la derecha y después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.444649,
+    "lng": -3.615325,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos todo recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.446127,
+    "lng": -3.613025,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos recto  después nos mantenemos en el carril izquierdo",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.447375,
+    "lng": -3.611141,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "giramos la primera a la izquierda por el burguer kin",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.448906,
+    "lng": -3.611226,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "al final de la calle giramos a la derecha  después otra vez a la derecha para entrar al intercambiador",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toA",
+    "lat": 40.449424,
+    "lng": -3.610233,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "entramos al intercambiador y después lo bordeamos por la izquierda",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
   }
 ]
