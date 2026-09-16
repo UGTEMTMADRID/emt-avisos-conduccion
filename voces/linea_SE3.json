@@ -1,1 +1,255 @@
-[]
+[
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.407257,
+    "lng": -3.75254,
+    "radio_metros": 60,
+    "icono_sf": "mappin.circle.fill",
+    "mensaje": "atención continuamos la linea de la ruta en ambos sentidos cabecera de línea sentido batán",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.406296,
+    "lng": -3.755008,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "la parada en sentido en contrario al volver continuamos la linea de la ruta",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.40546,
+    "lng": -3.757325,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "la parada es en sentido contrario al volver continuamos la linea de la ruta",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.404305,
+    "lng": -3.759338,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "la parada es en sentido contrario al volver continuamos la linea de la ruta en ambos sentidos",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.403208,
+    "lng": -3.760563,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "las parada son en sentido contrario al volver continuamos la linea de la ruta en ambos sentidos",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.40185,
+    "lng": -3.760606,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "nos guiamos visualmete en ambos entidos",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.400553,
+    "lng": -3.759375,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos todo recto por calle de los yébenes",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.399245,
+    "lng": -3.758514,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.398352,
+    "lng": -3.757133,
+    "radio_metros": 60,
+    "icono_sf": "mappin.circle.fill",
+    "mensaje": "en glorieta giramos a izquierda y cabecera de línea de lucero",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.39839,
+    "lng": -3.755979,
+    "radio_metros": 60,
+    "icono_sf": "mappin.circle.fill",
+    "mensaje": "cabecera de línea de lucero y con desvío por obras inicio  continuamos recto cabecera de línea de lucero y continuamos recto solo nos regulamos en cabecera de batán",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.39839,
+    "lng": -3.755979,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "en glorieta continuamos recto  después parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.39839,
+    "lng": -3.755979,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "parada  continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.40561,
+    "lng": -3.753269,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "parada después del semáforo parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.405795,
+    "lng": -3.752755,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "continuamos recto",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.406588,
+    "lng": -3.750592,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "parada  después giramos a izquierda siempre dirección m 30 parada",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.40701,
+    "lng": -3.749479,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.left",
+    "mensaje": "en dirección m 30 giramos a izquierda continuamos la linea de la ruta",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.406591,
+    "lng": -3.750585,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "parada y en semáforo giramos a la derecha y cogemos la a 5 en sentido sur badajoz inicio desvío",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.407871,
+    "lng": -3.750364,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "parada después giramos a la derecha",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.406996,
+    "lng": -3.749516,
+    "radio_metros": 60,
+    "icono_sf": "arrow.turn.up.right",
+    "mensaje": "giramos a derecha por villasandino",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.406115,
+    "lng": -3.751873,
+    "radio_metros": 60,
+    "icono_sf": "light.beacon.max.fill",
+    "mensaje": "parada después en semáforo giramos a derecha atención continuamos la linea de la ruta",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.405972,
+    "lng": -3.752263,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "por la izquierda cogemos la a 5 en sentido sur badajoz inicio desvío",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.405398,
+    "lng": -3.757433,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "salimos por la derecha hacia calle san manuel",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  },
+  {
+    "tipo": "voz_personalizada",
+    "direccion": "toB",
+    "lat": 40.40444,
+    "lng": -3.759099,
+    "radio_metros": 60,
+    "icono_sf": "arrow.up",
+    "mensaje": "salimos por la derecha a casa de campo y batán ábrete bien giro estrecho",
+    "distancia_previa_metros": 110,
+    "mensaje_previo": ""
+  }
+]
